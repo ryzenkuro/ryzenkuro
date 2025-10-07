@@ -5,7 +5,7 @@
 # <p align="center">Faiz Baraka Putra</p>
 
 <p align="center">
-**Cybersecurity Student | AI Enthusiast | Technical Troubleshooter**
+Cybersecurity Student | AI Enthusiast | Technical Troubleshooter
 </p>
 
 
