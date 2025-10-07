@@ -1,4 +1,4 @@
-![ryzenkuro](img/yuta-yuta-rika.gif)
+![ryzenkuro](https://media1.tenor.com/m/zIcADuIRj1EAAAAC/yuta-yuta-rika.gif)
 
 
 ## Hi, I'm Faiz Baaraka Putra 😄
