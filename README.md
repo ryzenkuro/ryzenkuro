@@ -1,4 +1,4 @@
-![ryzenkuro](http://raw.githubusercontent.com/ryzenkuro/ryzenkuro/main/img/223044.gif)
+![ryzenkuro](https://files.catbox.moe/c1z9on.gif)
 
 
 ## Hi, I'm Faiz Baaraka Putra 😄
