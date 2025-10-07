@@ -1,4 +1,6 @@
-![ryzenkuro](img/yuta-yuta-rika.gif)
+![Preview](preview.png)
+[Video](img/video.mp4)
+
 
 ## Hi, I'm Faiz Baaraka Putra 😄
 
