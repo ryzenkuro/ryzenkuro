@@ -8,7 +8,7 @@
 **Cybersecurity Student | AI Enthusiast | Technical Troubleshooter**
 </p>
 
----
+
 
 ## 💻 About Me
 Hello everyone! I'm Faiz. I'm currently learning about the latest developments in technology,  
@@ -21,7 +21,6 @@ because I love experimenting with AI prompts to create new things. :D
 - ⚡ **Fixing problems** and making systems work better using AI and research
 
 
----
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -30,7 +29,7 @@ because I love experimenting with AI prompts to create new things. :D
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+
 
 ## 🛠 Skills & Tools
 <p align="center">
@@ -46,7 +45,7 @@ because I love experimenting with AI prompts to create new things. :D
 </p>
 
 
----
+
 
 
 
@@ -56,7 +55,7 @@ because I love experimenting with AI prompts to create new things. :D
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
----
+
 
 ## 🌌 Fun Quote
 > "Hacking is not just breaking things, it's exploring possibilities."  
