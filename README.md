@@ -1,4 +1,4 @@
-![ryzenkuro](![yuta](https://github.com/ryzenkuro/ryzenkuro/main/img/223044.gif))
+![ryzenkuro](http://raw.githubusercontent.com/ryzenkuro/ryzenkuro/main/img/223044.gif)
 
 
 ## Hi, I'm Faiz Baaraka Putra 😄
