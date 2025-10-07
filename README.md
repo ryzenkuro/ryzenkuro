@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="img/223044.gif" />
-</p>
-
-<h1 align="center">Faiz Baraka Putra</h1>
-<p align="center">Cybersecurity Student | AI Enthusiast | Technical Troubleshooter</p>
 
 ---
 
