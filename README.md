@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyaDg4MHN5bGNoMGFtcXZvMzRwMGM5ZzlrbTNsYjRxemZ3ODU4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AtdO4rsHIGeMTDGft5/giphy.gifC:\Users\Admin\Documents\ryzenkuro\img\223044.gif">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNyaDg4MHN5bGNoMGFtcXZvMzRwMGM5ZzlrbTNsYjRxemZ3ODU4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AtdO4rsHIGeMTDGft5/giphy.gif">
 
 
 ## Hi, I'm Faiz Baaraka Putra 😄
