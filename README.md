@@ -11,10 +11,8 @@ Cybersecurity Student | AI Enthusiast | Technical Troubleshooter
 
 
 ## 💻 About Me
-Hello everyone! I'm Faiz. I'm currently learning about the latest developments in technology,  
-so I often adapt to keep up with the changes. I'm more inclined to be an **AI Enthusiast**,  
-because I love experimenting with AI prompts to create new things. :D
-.  
+Hello everyone! I'm Faiz. I'm currently learning about the latest developments in technology, so I often adapt to keep up with the changes. I'm more inclined to be an **AI Enthusiast**,  because I love experimenting with AI prompts to create new things. :D
+
 
 - 🕵️ Learning **Cybersecurity**: exploring networks, basic security, and finding vulnerabilities  
 - 🤖 Playing with **AI and prompts** to see what I can create  
