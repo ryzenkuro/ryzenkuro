@@ -48,6 +48,13 @@ Hello everyone! I'm Faiz. I'm currently learning about the latest developments i
   <img src="https://github-readme-stats.vercel.app/api?username=ryzenkuro&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryzenkuro/ryzenkuro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryzenkuro/ryzenkuro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ryzenkuro/ryzenkuro/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
