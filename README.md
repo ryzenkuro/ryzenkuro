@@ -10,7 +10,6 @@ Cybersecurity Student | AI Enthusiast | Technical Troubleshooter
 
 
 
-
 ## 💻 About Me
 Hello everyone! I'm Faiz. I'm currently learning about the latest developments in technology,  
 so I often adapt to keep up with the changes. I'm more inclined to be an **AI Enthusiast**,  
@@ -46,18 +45,13 @@ because I love experimenting with AI prompts to create new things. :D
 </p>
 
 
-
-
-
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryzenkuro&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 
 
 ## 🌌 Fun Quote
-> "Hacking is not just breaking things, it's exploring possibilities."  
-> "Learning never exhausts the mind." – Leonardo da Vinci
+> "Every hardship surely brings its own ease." – Ustadz Adi Hidayat
