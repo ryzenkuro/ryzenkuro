@@ -8,7 +8,7 @@
 Cybersecurity Student | AI Enthusiast | Technical Troubleshooter
 </h5>
 
-
+---
 
 ## 💻 About Me
 Hello everyone! I'm Faiz. I'm currently learning about the latest developments in technology,  
@@ -20,7 +20,7 @@ because I love experimenting with AI prompts to create new things. :D
 - 🤖 Playing with **AI and prompts** to see what I can create  
 - ⚡ **Fixing problems** and making systems work better using AI and research
 
-
+---
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -29,7 +29,7 @@ because I love experimenting with AI prompts to create new things. :D
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-
+---
 
 ## 🛠 Skills & Tools
 <p align="center">
@@ -44,14 +44,14 @@ because I love experimenting with AI prompts to create new things. :D
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryzenkuro&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-
+---
 
 ## 🌌 Fun Quote
 > "Every hardship surely brings its own ease." – Ustadz Adi Hidayat
